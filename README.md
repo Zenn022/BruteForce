@@ -5,7 +5,7 @@ $ pkg update && upgrade
 $ pkg install git
 $ pkg install mechanize
 $ pkg install python2
-$ git clone https://github.com/ZevenTeen/DarkFB
+$ git clone https://github.com/ZevenTeen022/DarkFB
 $ pip2 install mechanize
 $ pip2 install requests
 $ cd FbBrute
