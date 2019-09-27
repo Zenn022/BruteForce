@@ -10,3 +10,6 @@ $ pip2 install mechanize
 $ pip2 install requests
 $ cd FbBrute
 $ python2 fb.py
+
+Id:Haidar Myxos
+Pw:Z3V3NT33N
